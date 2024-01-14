@@ -1,6 +1,6 @@
 const ForgotPasswordPage = () =>{
     return(
-        <div>Login Page</div>
+        <div>Forgot Password Page</div>
     )
 }
 
